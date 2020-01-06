@@ -6,8 +6,9 @@ public class login {
 	
 	public static void main(String args[]) {
 		
-		System.out.println("test git project");
-		
+		System.out.println("test git");
+		System.out.println("test project");
+
 	}
 	
 	
